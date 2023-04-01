@@ -1,2 +1,5 @@
-# Examples_And_Learning_Material
-This repository is a support for learning python. It contains study documents and examples
+# Repository to collect useful information about Python
+The purposes of this repository are:
+- supporting for learning python 
+- collecting useful information to work more effectively with Python (for future projects)
+It contains study documents and examples to consult.
